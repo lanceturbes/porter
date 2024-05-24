@@ -1,0 +1,19 @@
+{
+  "name": "porter",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "tauri": "tauri"
+  },
+  "keywords": [],
+  "author": "Lance Turbes Jr.",
+  "devDependencies": {
+    "@tauri-apps/cli": "^1.5.14",
+    "elm-canvas": "^2.2.4",
+    "vite": "^5.2.11",
+    "vite-plugin-elm": "^3.0.1"
+  }
+}
